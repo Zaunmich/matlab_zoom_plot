@@ -12,3 +12,6 @@ Create zooms in Matlab figures.
 * You can even zoom/pan in the new axes object. The rectangle will automatically be updated! Click once on the plot, to re-align the arrows.
 
 You can use the zoom_plot function on the new axes to create multiple levels of zoom
+
+# Matlab File exchange:
+[![View Zoom Plot on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/92030-zoom-plot)
